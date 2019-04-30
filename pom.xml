@@ -48,7 +48,7 @@
 		<repository>
 			<id>Siva</id>
 			<name>Siva</name>
-			<url>http://localhost:8081/nexus/content/repositories/Siva/</url>
+			<url>http://localhost:8081/nexus/content/repositories/Siva</url>
 		</repository>
 	</distributionManagement>
 	
